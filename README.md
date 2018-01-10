@@ -1,4 +1,3 @@
 # hello-world
-my first repository me master
+This is my first repository me master
 
-my name is Enas
